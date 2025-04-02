@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main(){
+// Declaração de variáveis    
     int carta1=1, carta2=2;
     char estado1, estado2;
     char cidade1[50], cidade2[50];
